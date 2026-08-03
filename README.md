@@ -4,12 +4,10 @@ A stylish, hacker-inspired custom banner script for Termux featuring an Anonymou
 
 ---
 
-## 📸 Preview
+## 📸 Preview## 📸 Preview
 
-<p align="center">
-  <img src=![Termux Banner Preview](preview.jpg) 
-alt="Termux Banner Preview" width="350"/>
-</p>
+![Termux Banner Preview](preview.jpg)
+
 
 ---
 
@@ -44,22 +42,22 @@ python banner.py
 
 ```
 
-🛠️ Customization
+### 🛠️ Customization
 ​To change the Name and Email to your own details:
 
-01 ⏩Open the script with nano:
+# 01 ⏩Open the script with nano:
 ```bash
 nano banner.py
 ```
-02 ⏩Edit the USERNAME and EMAIL variables inside the code.
-03 ⏩Save and exit by pressing CTRL + X, then Y, then ENTER.
+# 02 ⏩Edit the USERNAME and EMAIL variables inside the code.
+# 03 ⏩Save and exit by pressing CTRL + X, then Y, then ENTER.
 
 
-📱 Connect with Us
+### 📱 Connect with Us
 ​Follow for more Termux tools, tutorials, and scripts:
 
 
-TikTok
+## TikTok
 ​<p align="center">Made with ❤️ by MAFIYA TEAM</p>
 
 
