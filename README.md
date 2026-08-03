@@ -32,7 +32,7 @@ pkg update && pkg upgrade -y
 pkg install python git figlet -y
 
 # Clone this Repository
-git clone [https://github.com/Achiachiofficial/-Mafiyaxteam-banner.git](https://github.com/Achiachiofficial/-Mafiyaxteam-banner.git)
+git clone https://github.com/Achiachiofficial/-Mafiyaxteam-banner.git
 
 # Navigate to the Directory
 cd -Mafiyaxteam-banner
