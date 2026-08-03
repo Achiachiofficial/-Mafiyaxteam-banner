@@ -7,7 +7,8 @@ A stylish, hacker-inspired custom banner script for Termux featuring an Anonymou
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Achiachiofficial/-Mafiyaxteam-banner/main/preview.jpg" alt="Termux Banner Preview" width="350"/>
+  <img src=https://raw.githubusercontent.com/Achiachiofficial/-Mafiyaxteam-banner/master/preview.jpg"
+alt="Termux Banner Preview" width="350"/>
 </p>
 
 ---
