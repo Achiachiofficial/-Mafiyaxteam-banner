@@ -58,7 +58,7 @@ nano banner.py
 
 
 ## TikTok
-​<p align="center">Made with ❤️ by MAFIYA TEAM</p>
+​<p align="center">Made with ❤️ by MAFIYAˣ TEAM⚡</p>
 
 
 
